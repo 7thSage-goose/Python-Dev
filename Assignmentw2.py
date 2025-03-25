@@ -8,3 +8,4 @@ other = [50,60,70]
 my_list.extend(other)
 del my_list[7]
 my_list.sort()
+print(my_list[3])
